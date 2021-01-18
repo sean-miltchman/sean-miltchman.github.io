@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Jan 2021 19:35:27 -0500</lastBuildDate><atom:link href="https://sean-miltchman.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://sean-miltchman.github.io/about/</link>
+      <pubDate>Sun, 17 Jan 2021 21:21:32 -0500</pubDate>
+      
+      <guid>https://sean-miltchman.github.io/about/</guid>
+      <description>My name is Sean. Nice to meet you all.</description>
+    </item>
+    
+    <item>
       <title>My First Post - Chess</title>
       <link>https://sean-miltchman.github.io/chess-games/my-first-post/</link>
       <pubDate>Sat, 16 Jan 2021 19:35:27 -0500</pubDate>
