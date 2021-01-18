@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chess with sean_vh</title>
+    <link>https://sean-miltchman.github.io/</link>
+    <description>Recent content on Chess with sean_vh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jan 2021 19:35:27 -0500</lastBuildDate><atom:link href="https://sean-miltchman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post - Chess</title>
+      <link>https://sean-miltchman.github.io/chess-games/my-first-post/</link>
+      <pubDate>Sat, 16 Jan 2021 19:35:27 -0500</pubDate>
+      
+      <guid>https://sean-miltchman.github.io/chess-games/my-first-post/</guid>
+      <description>Hey everybody! My name is Sean, I really like chess. If you want to learn how to play, join Chess or Lichess
+  If you find a good move, look for a better one - Emanuel Lasker
+  Hope you have a good day. I will be posting &amp;ldquo;real posts&amp;rdquo; soon!
+Game #1&amp;nbsp;¶ window.addEventListener(&#34;message&#34;,e={e[&#39;data&#39;]&amp;&amp;&#34;7455804&#34;===e[&#39;data&#39;][&#39;id&#39;]&amp;&amp;document.getElementById(`${e[&#39;data&#39;][&#39;id&#39;]}`)&amp;&amp;(document.getElementById(`${e[&#39;data&#39;][&#39;id&#39;]}`).style.height=`${e[&#39;data&#39;][&#39;frameHeight&#39;]+30}px`)}); Italian Opening&amp;nbsp;¶  </description>
+    </item>
+    
+    <item>
+      <title>My First Post - Chess</title>
+      <link>https://sean-miltchman.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 16 Jan 2021 19:35:27 -0500</pubDate>
+      
+      <guid>https://sean-miltchman.github.io/posts/my-first-post/</guid>
+      <description>Hey everybody! My name is Sean, I really like chess. If you want to learn how to play, join Chess or Lichess
+  If you find a good move, look for a better one - Emanuel Lasker
+  Hope you have a good day. I will be posting &amp;ldquo;real posts&amp;rdquo; soon!
+Game #1&amp;nbsp;¶ window.addEventListener(&#34;message&#34;,e={e[&#39;data&#39;]&amp;&amp;&#34;7455804&#34;===e[&#39;data&#39;][&#39;id&#39;]&amp;&amp;document.getElementById(`${e[&#39;data&#39;][&#39;id&#39;]}`)&amp;&amp;(document.getElementById(`${e[&#39;data&#39;][&#39;id&#39;]}`).style.height=`${e[&#39;data&#39;][&#39;frameHeight&#39;]+30}px`)}); Italian Opening&amp;nbsp;¶  </description>
+    </item>
+    
+  </channel>
+</rss>
